@@ -87,10 +87,6 @@ def test_connection():
             connection.close()
 
 
-def add_some_new():
-    return None
-
-
 if __name__ == "__main__":
     # 创建数据库和表
     create_database()
