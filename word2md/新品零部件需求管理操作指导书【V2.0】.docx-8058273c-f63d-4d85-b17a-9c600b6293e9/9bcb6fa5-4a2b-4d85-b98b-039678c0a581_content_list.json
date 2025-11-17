@@ -1,0 +1,1008 @@
+[
+    {
+        "type": "text",
+        "text": "新品零部件需求管理操作指 导书",
+        "text_level": 1,
+        "bbox": [
+            136,
+            275,
+            863,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "共10页",
+        "bbox": [
+            450,
+            444,
+            546,
+            464
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陕西千山航空电子有限责任公司",
+        "bbox": [
+            307,
+            771,
+            687,
+            791
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2025年5月",
+        "bbox": [
+            426,
+            824,
+            566,
+            844
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "受控",
+        "bbox": [
+            114,
+            99,
+            169,
+            120
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目次",
+        "text_level": 1,
+        "bbox": [
+            463,
+            95,
+            534,
+            118
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1适用范围. 1",
+            "2 操作向导"
+        ],
+        "bbox": [
+            139,
+            146,
+            847,
+            204
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "2.1 新品零部件需求申请 ..... 1",
+            "2.2 新品零部件需求拒回",
+            "2.3 新品零部件需求确认执行 ..... 8",
+            "2.4 新品主计划编制 ..... 8",
+            "2.5 新品零部件需求查询 ..... 8"
+        ],
+        "bbox": [
+            139,
+            218,
+            850,
+            384
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "陕西千山航空电子有限责任公司版权所有",
+        "bbox": [
+            329,
+            939,
+            605,
+            953
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "I",
+        "bbox": [
+            847,
+            936,
+            858,
+            948
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 适用范围",
+        "text_level": 1,
+        "bbox": [
+            139,
+            90,
+            257,
+            107
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文件规定了新品零部件需求申请、拒回、确认、主计划编制及查询等功能的使用规范，采用图例进行展示，方便实际操作。",
+        "bbox": [
+            136,
+            122,
+            852,
+            164
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文件规定了新品零部件需求在审批各环节，各审签责任人的审批要点、审批意见填写规范。",
+        "bbox": [
+            136,
+            171,
+            850,
+            214
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 操作向导",
+        "text_level": 1,
+        "bbox": [
+            137,
+            229,
+            255,
+            244
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 新品零部件需求申请",
+        "text_level": 1,
+        "bbox": [
+            137,
+            261,
+            374,
+            278
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤1：点击中航工业千山门户系统首页如图所示标注进入，见下图。",
+        "bbox": [
+            178,
+            286,
+            789,
+            302
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a90f0f815e2f04a875a10dff7a554eaeef79348760943907fa5a81a3c0250b9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            303,
+            858,
+            456
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤2：生产计划管控系统进入后默认页面见下图。",
+        "bbox": [
+            178,
+            469,
+            628,
+            486
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/522ec4b64c038df145ab08b520fc42bb47f58da326025e23a18979254c624f95.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            494,
+            850,
+            634
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤3：选择“生产计划管理”——“新品零部件需求管理（新）”——“新品零部件需求申请（新）”，单机选择“新品零部件需求申请（新）”。",
+        "bbox": [
+            147,
+            649,
+            853,
+            692
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9bfe7f5944578977b2b71818767828c12b005922de68790ea4a0b087d7001dc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            697,
+            853,
+            885
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "陕西千山航空电子有限责任公司版权所有",
+        "bbox": [
+            364,
+            946,
+            640,
+            959
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "共8页 第1页",
+        "bbox": [
+            751,
+            944,
+            857,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤4：进入“新品零部件需求申请（新）”后，界面显示如下图所示。",
+        "bbox": [
+            181,
+            89,
+            811,
+            108
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/03c1cee0e8ade78ad0f5d83088dfac40372aab4920b0299dc2296035002337cf.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            112,
+            858,
+            241
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "步骤5：点击“添加”，进入新品零部件需求申请编制页面。",
+        "bbox": [
+            181,
+            253,
+            709,
+            271
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0dd326c5c38676be11922e9de76c64feaf0d9a142911ff698b03b14ff3039c39.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            275,
+            858,
+            404
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4b8e7051c6081877e572b24c91a919f6312af62381467b5137e8c17ec91260e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            407,
+            858,
+            586
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "步骤6：维护“新品零部件需求申请”主表。按照上述图示中“主表部分”、“子表部分”标识要求，首先在“主表部分”选择任务输入来源，填写任务输入来源编号，选择项目负责人、项目干事、主计划员、项目代号。",
+        "bbox": [
+            139,
+            596,
+            865,
+            665
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/42767b90969bed01b9d458c85a830df35e95cb62ff25b0d369093085a90b4bfe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            671,
+            857,
+            852
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "步骤7：维护“新品零部件需求申请”子表。“新品零部件需求申请”子表为本次新品投产的核心和关键。点击子表中“添加”按钮，逐项填报，直至全部",
+        "bbox": [
+            139,
+            863,
+            858,
+            906
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "陕西千山航空电子有限责任公司版权所有",
+        "bbox": [
+            364,
+            946,
+            640,
+            959
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "共8页 第2页",
+        "bbox": [
+            751,
+            944,
+            857,
+            958
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "内容完成编制，点击“保存”。图例如下。",
+        "bbox": [
+            137,
+            89,
+            514,
+            108
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/64cbb0c29abc41a9fb12ecf5b57e0661f33141469b3d0e9cd141bb87d47f3b7f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            112,
+            858,
+            326
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "零部件需求申请内容，从计划类型上，支持投入计划、产出计划、投产一体计划等3中投产模式。从投产内容上，支持系统、整机、部件、零组件的投入产出。",
+        "bbox": [
+            136,
+            338,
+            858,
+            405
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3996d95186996045c91b3e3a61db1f9ce1c88d7617850bb200d1474f94b5959b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            413,
+            858,
+            623
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "零部件需求申请内容，在物资投入环节，支持灵活选择的模式，可通过“BOM勾选确认”勾选本次投入的物资内容，即“勾选什么，投入什么”。",
+        "bbox": [
+            147,
+            634,
+            858,
+            680
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在“BOM勾选确认”环节，点击BOM结构中左侧方框，点击“确认选择”按钮，即可完成“BOM勾选确认”。",
+        "bbox": [
+            136,
+            690,
+            848,
+            736
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注意：若投入的物资为元器件、零件（最小单元）、外购成件（二配板卡、整机），则无需进行“BOM勾选确认”。其余均需进行“BOM勾选确认”。",
+        "bbox": [
+            136,
+            747,
+            847,
+            793
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "陕西千山航空电子有限责任公司版权所有",
+        "bbox": [
+            364,
+            946,
+            642,
+            960
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "共8页 第3页",
+        "bbox": [
+            751,
+            944,
+            858,
+            958
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9eff32e44bc0ae8053ccd0d93ba25c675497edeccb5bbcbacc89f62afa1cb222.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            79,
+            858,
+            343
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d189c65170228eb1f9c23d8fe66b21da93a3904cae6518801c0b75cdd553219.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            346,
+            858,
+            602
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "完成BOM勾选确认后，新品零部件需求申请页面显示结果如下。若投入物资在“BOM勾选确认”为空白，未能展现投入物资型号/图号，则“BOM勾选确认”未完成。",
+        "bbox": [
+            136,
+            615,
+            858,
+            683
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc9ff8bd4861773dc91b05401642584488a64a899f54c9783b4762237a947fda.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            690,
+            857,
+            898
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "陕西千山航空电子有限责任公司版权所有",
+        "bbox": [
+            364,
+            946,
+            640,
+            960
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "共8页 第4页",
+        "bbox": [
+            751,
+            944,
+            858,
+            958
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "完成新品零部件需求申请编制后，设计员可在申请界面，修改申请内容，包括“添加”新的投产需求、“删除”已编制的投产需求。",
+        "bbox": [
+            136,
+            89,
+            857,
+            133
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/563b479a784e44cc83e3cf223a57f22c19c315246e20a7ec7ea3f04748cca356.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            137,
+            858,
+            351
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "步骤8：新品零部件需求审批。完成新品零部件需求申请编制后，提交审批。",
+        "bbox": [
+            176,
+            363,
+            852,
+            382
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第一步，提交部门领导审批。提交审批申请后，在ERP系统中，部门领导的“待办事宜”界面出现待审批流程，部门领导审批通过后，进入项目干事填写及审批界面。",
+        "bbox": [
+            137,
+            395,
+            858,
+            464
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "部门领导审批要点：重点审查投产策划是否合理、投产依据是否科学合理、投产数量是否准确、计划配套时间及计划产出时间是否科学、图样是否发布、文件软件及测试工装等是否齐备、BOM勾选确认是否正确。",
+        "bbox": [
+            136,
+            478,
+            858,
+            546
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/063a3027fab08081aae33b0d9ab76dc0b632c52ff5c0ff88f847e075edcef30d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            552,
+            858,
+            741
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第二步，项目干事填写及审批。在项目干事的ERP系统中“待办事宜”界面出现待审批流程，点击进入，完成本次投产需求核对确认，并完成成本归集、项目发展部领导、所属片区等3项信息选择，完成两金压控信息填写，点击“保存”。图示如下。",
+        "bbox": [
+            136,
+            753,
+            858,
+            847
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "陕西千山航空电子有限责任公司版权所有",
+        "bbox": [
+            364,
+            946,
+            640,
+            960
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "共8页 第5页",
+        "bbox": [
+            751,
+            944,
+            857,
+            958
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/abb1c57def365ec193c19662138f635c55c6ae47d625df87e2e549f27cb9e6dc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            79,
+            858,
+            292
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "项目干事完成上述工作事项后，新品零部件需求提交型号副总师审批。",
+        "bbox": [
+            176,
+            304,
+            798,
+            322
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "项目干事审批要点：重点审查投产策划是否合理、投产依据是否科学合理、投产数量是否准确、批次编号是否正确、计划配套时间及计划产出时间是否科学检验类型是否准确、物资投入类型及物资领用方式是否正确、是否完成BOM勾选确认。",
+        "bbox": [
+            136,
+            335,
+            858,
+            428
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/99e7851fa3589226d0fe5c39cb367334557e916c33f40725d27449bb8ff2e262.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            137,
+            435,
+            858,
+            642
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第三步，型号副总师审批。在副总师的ERP系统中“待办事宜”界面出现待审批流程，点击进入，审批通过后，进入副总经理审批。",
+        "bbox": [
+            137,
+            653,
+            855,
+            697
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "副总师审批要点：重点审查投产策划是否合理、投产数量是否准确、计划配套时间及计划产出时间是否科学、BOM勾选确认是否正确。",
+        "bbox": [
+            136,
+            709,
+            862,
+            755
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "陕西千山航空电子有限责任公司版权所有",
+        "bbox": [
+            364,
+            946,
+            642,
+            960
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "共8页 第6页",
+        "bbox": [
+            751,
+            944,
+            858,
+            958
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6dcf14cc90a0a0de44de2bad98ee20c9bec8236fd0b1b939893da8d54924907a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            79,
+            855,
+            284
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第四步，副总经理审批。在副总经理的ERP系统中“待办事宜”界面出现待审批流程，点击进入，审批通过后，新品零部件需求完成审批。",
+        "bbox": [
+            136,
+            296,
+            858,
+            340
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "副总经理审批要点：重点审查投产策划是否合理、投产依据是否充分、前序审签是否履职尽责。",
+        "bbox": [
+            136,
+            351,
+            858,
+            395
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/380ce715e32e69ade3a70b4a16cb74dfacd4abdf5884910514ee60e17881f0f1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            401,
+            858,
+            606
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2 新品零部件需求拒回",
+        "text_level": 1,
+        "bbox": [
+            137,
+            619,
+            374,
+            636
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "步骤9：新品零部件需求审批通过后，新品计划管理员（张长）确认零部件需求内容，若发现零部件需求存在重大失误、计划下达后无法执行的任务项，则执行“新品零部件需求拒回”。页面图示如下。",
+        "bbox": [
+            136,
+            644,
+            848,
+            709
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3de24678234e713e8e32dbaa79c22d6dc032087b9c6c34260bd08805e3f51636.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            712,
+            853,
+            866
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "步骤10：新品计划管理员（张长）填写“拒回原因”，点击“拒回”。新品",
+        "bbox": [
+            176,
+            871,
+            853,
+            890
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "陕西千山航空电子有限责任公司版权所有",
+        "bbox": [
+            364,
+            946,
+            640,
+            960
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "共8页 第7页",
+        "bbox": [
+            751,
+            944,
+            857,
+            958
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "零部件需求“拒回”后，设计员重新提请新品零部件需求申请。",
+        "bbox": [
+            137,
+            89,
+            695,
+            105
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/78c5a719be9caf1d954975481b8450cfeb7bd8bb3a53b13970a29eced958f660.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            108,
+            853,
+            269
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3 新品零部件需求确认执行",
+        "text_level": 1,
+        "bbox": [
+            137,
+            274,
+            413,
+            291
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "新品计划管理员（张长）在“新品零部件需求确认执行”页面，点击“执行”，完成新品零部件需求确认执行。",
+        "bbox": [
+            136,
+            299,
+            828,
+            341
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "待完善。",
+        "bbox": [
+            178,
+            348,
+            250,
+            366
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4 新品主计划编制",
+        "text_level": 1,
+        "bbox": [
+            137,
+            374,
+            332,
+            390
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "待完善。",
+        "bbox": [
+            178,
+            398,
+            250,
+            416
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5 新品零部件需求查询",
+        "text_level": 1,
+        "bbox": [
+            137,
+            424,
+            371,
+            439
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "待完善。",
+        "bbox": [
+            178,
+            448,
+            250,
+            466
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "陕西千山航空电子有限责任公司版权所有",
+        "bbox": [
+            364,
+            946,
+            638,
+            959
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "共8页 第8页",
+        "bbox": [
+            751,
+            944,
+            857,
+            957
+        ],
+        "page_idx": 9
+    }
+]

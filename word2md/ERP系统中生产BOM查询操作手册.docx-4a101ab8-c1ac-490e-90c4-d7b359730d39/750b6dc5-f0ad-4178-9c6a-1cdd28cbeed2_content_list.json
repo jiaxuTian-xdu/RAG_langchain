@@ -1,0 +1,114 @@
+[
+    {
+        "type": "text",
+        "text": "ERP系统中生产BOM查询操作手册",
+        "text_level": 1,
+        "bbox": [
+            302,
+            101,
+            694,
+            122
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 进入系统：公司首页一生产管控",
+        "text_level": 1,
+        "bbox": [
+            147,
+            149,
+            430,
+            164
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7833bca63f7d3abda0646cf36f0eab30b7bb3d7a1d4241a58281ef465d2d261.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            168,
+            848,
+            275
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 查询路径：基础数据管理—BOM数据管理—BOM数据查询（新）",
+        "text_level": 1,
+        "bbox": [
+            146,
+            278,
+            675,
+            294
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/9440366cd8a68ae5ecc30a4a3a6dd9f70b7737c0f54ca61e00466c4182f5c797.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            294,
+            848,
+            464
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. 查询操作：输入要查询的“产品型号或图号”，点击“查询”，查询出来后点击“确定”",
+        "text_level": 1,
+        "bbox": [
+            146,
+            482,
+            836,
+            514
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/56f1335107291d669f4274d647abf5adfdc96657dfdf5da8c0f8242f1e9c35bc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            516,
+            847,
+            718
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4. 查询结果：点击型号即可展示下面明细",
+        "text_level": 1,
+        "bbox": [
+            146,
+            722,
+            482,
+            739
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6237763a3e7d5d054e64d1312a431a605389adb3394f6b3cc4286becc269132d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            90,
+            848,
+            269
+        ],
+        "page_idx": 1
+    }
+]

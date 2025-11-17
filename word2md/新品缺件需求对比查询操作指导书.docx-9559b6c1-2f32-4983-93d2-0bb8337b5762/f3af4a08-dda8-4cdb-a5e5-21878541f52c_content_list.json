@@ -1,0 +1,494 @@
+[
+    {
+        "type": "text",
+        "text": "新品缺件需求对比查询操作指导书",
+        "text_level": 1,
+        "bbox": [
+            166,
+            262,
+            833,
+            372
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "共5页（含封面）",
+        "bbox": [
+            389,
+            605,
+            589,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陕西千山航空电子有限责任公司",
+        "bbox": [
+            307,
+            832,
+            687,
+            854
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2025年8月",
+        "bbox": [
+            426,
+            885,
+            566,
+            906
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "受控",
+        "bbox": [
+            139,
+            87,
+            194,
+            107
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "1",
+        "bbox": [
+            376,
+            947,
+            386,
+            958
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目次",
+        "text_level": 1,
+        "bbox": [
+            465,
+            112,
+            534,
+            133
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1适用范围 2",
+            "2 操作向导 3"
+        ],
+        "bbox": [
+            139,
+            167,
+            858,
+            210
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 缺件需求对比查询",
+        "bbox": [
+            141,
+            217,
+            855,
+            234
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "2.1.1模块功能 3",
+            "2.1.2 使用方法"
+        ],
+        "bbox": [
+            141,
+            242,
+            855,
+            284
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2",
+        "bbox": [
+            376,
+            947,
+            386,
+            957
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 适用范围",
+        "text_level": 1,
+        "bbox": [
+            137,
+            87,
+            270,
+            105
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文件规定了新品缺件需求对比查询相关操作示例。",
+        "bbox": [
+            176,
+            118,
+            710,
+            139
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 操作向导",
+        "text_level": 1,
+        "bbox": [
+            137,
+            151,
+            268,
+            170
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 缺件需求对比查询",
+        "text_level": 1,
+        "bbox": [
+            137,
+            191,
+            379,
+            209
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 模块功能",
+        "text_level": 1,
+        "bbox": [
+            137,
+            230,
+            302,
+            248
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用于查询新品缺件-需求对比情况。",
+        "bbox": [
+            176,
+            261,
+            529,
+            280
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 使用方法",
+        "text_level": 1,
+        "bbox": [
+            137,
+            300,
+            302,
+            319
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户可先通过“中航工业千山门户系统”进入“生产管控系统”。",
+        "bbox": [
+            176,
+            332,
+            850,
+            351
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤1：点击中航工业千山门户系统首页如图所示标注进入，见下图。",
+        "bbox": [
+            137,
+            357,
+            835,
+            401
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/282b555e5dfa97501dcf8b6ba315bf2c13155123ed148bcec1a42a56da230bb5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            403,
+            858,
+            555
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤2：生产计划管控系统进入后默认页面见下图。",
+        "bbox": [
+            184,
+            565,
+            710,
+            585
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4268fe653ae12de276c318a1a47bdc10d9ae1cb266c612471e1464abd4bb562.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            593,
+            850,
+            734
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤3：选择“物资库存管理”——“配套管理”，鼠标单机“缺件-需求对比”。",
+        "bbox": [
+            149,
+            746,
+            857,
+            790
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3",
+        "bbox": [
+            376,
+            947,
+            386,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cafbe36ec4f74c8cbccfde821625674c9a899a96f07bed062c6d1ae9cba22165.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            149,
+            80,
+            858,
+            324
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "步骤4：进入“缺件-需求对比”后，界面显示如下图所示。",
+        "bbox": [
+            184,
+            332,
+            789,
+            354
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a135b78397c8081a7ff9fc6de2a963ab8dfa71da0ffc8d9008fd5bb03470f69.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            360,
+            858,
+            445
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该界面默认显示需求投入不足数  $>0$  的物资",
+        "bbox": [
+            137,
+            456,
+            574,
+            476
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "步骤5：在项目代号中输入需查询的项目代号，点击“查询”。",
+        "bbox": [
+            184,
+            488,
+            833,
+            508
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0eb9618cc968fe98abf35c5449a662f23d3377b6b378232ea0a2da63dec3362.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            514,
+            858,
+            640
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“配套需求总数”是指对应项目某一项物资在配套单中需求的累计求和，如上图表示项目代号 KY-2023-011 中物料 4M3018625 配套单中需求累计为 96；",
+        "bbox": [
+            136,
+            650,
+            855,
+            720
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“配套缺件总数”指对应项目某一项物资目前缺件的累计求和；如上图表示项目代号 KY-2023-011 中物料 4M3018625 累计缺项数为 25;",
+        "bbox": [
+            136,
+            725,
+            840,
+            770
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“新品剩余数”指所有新品项目已分配未发放的数量；",
+        "bbox": [
+            137,
+            775,
+            680,
+            795
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“需求总数”指需求部门在该项目下某一项物资投入的总数量；如上图表示物料4M3018625在项目代号KY-2023-011中投入数量合计为80;",
+        "bbox": [
+            136,
+            800,
+            835,
+            870
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“需求缺件总数”指对应项目某一项物资已经投入未分配的数量。如",
+        "bbox": [
+            137,
+            875,
+            835,
+            895
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4",
+        "bbox": [
+            376,
+            947,
+            386,
+            957
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上图表示项目代号 KY-2023-011 中物料 4M3018625 投入的 80 只中有 9 只未分配;",
+        "bbox": [
+            136,
+            87,
+            840,
+            131
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“投入不足数”指该项目下某一项物资配套需求总数与需求总数的差值，即在该项目中缺的需求数量。如上图表示项目代号 KY-2023-011中物料4M3018625需求少投入16只。",
+        "bbox": [
+            136,
+            137,
+            840,
+            206
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a705eb4057c6323bbcde849ad0efc0d6db546216699215de9f994361a0d2439b.jpg",
+        "table_caption": [
+            "步骤 6: 点击配套需求总数对应的数字, 进入如下图所示"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>全送</td><td>项目代号</td><td>配件单号</td><td>主计划编号</td><td>产品型号/图号</td><td>物料编码</td><td>物料名称</td><td></td><td>需求数量</td><td>已分配数量</td><td>缺件数量</td><td>下线状态</td><td>备注</td></tr><tr><td>KY-2023-011</td><td>250845</td><td>2025-X007 DISCO-59A.X</td><td>DISCO-59A</td><td>4M3018625</td><td>N沟道MOSFET</td><td>UJMFN7002</td><td>32.00</td><td>7.00</td><td>25.00</td><td>未下表</td><td></td><td></td></tr><tr><td>KY-2023-011</td><td>233058</td><td>2023-X110 DISCO-59A.X</td><td>DISCO-59A</td><td>4M3018625</td><td>N沟道MOSFET</td><td>UJMFN7002</td><td>16.00</td><td>16.00</td><td>0.00</td><td>下降已满足</td><td></td><td></td></tr><tr><td>KY-2023-011</td><td>233058</td><td>2023-X110 DISCO-59A.X</td><td>DISCO-59A</td><td>4M3018625</td><td>N沟道MOSFET</td><td>UJMFN7002</td><td>16.00</td><td>16.00</td><td>0.00</td><td>下降已满足</td><td></td><td></td></tr><tr><td>KY-KY-2023-011</td><td>240281</td><td>2024-X004 DISCO-59A.X</td><td>DISCO-59A</td><td>4M3018625</td><td>N沟道MOSFET</td><td>UJMFN7002</td><td>32.00</td><td>32.00</td><td>0.00</td><td>下降已满足</td><td></td><td></td></tr></table>",
+        "bbox": [
+            139,
+            244,
+            858,
+            332
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "该界面显示的为配套需求总数的来源及发放状态",
+        "bbox": [
+            139,
+            336,
+            636,
+            355
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5",
+        "bbox": [
+            376,
+            947,
+            386,
+            957
+        ],
+        "page_idx": 4
+    }
+]

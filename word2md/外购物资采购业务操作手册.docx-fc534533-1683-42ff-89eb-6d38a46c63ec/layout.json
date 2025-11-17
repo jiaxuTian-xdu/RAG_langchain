@@ -1,0 +1,772 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        79,
+                        373,
+                        91
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                79,
+                                373,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        79,
+                                        373,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "1、接收采购计划并分配给部门对应采购员（综合采购计划员）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        92,
+                        505,
+                        369
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                92,
+                                505,
+                                369
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        92,
+                                        505,
+                                        369
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                92,
+                                                505,
+                                                369
+                                            ],
+                                            "type": "image",
+                                            "image_path": "fdd398d34ac257eaaeebf20a2d3eab4ed0120871ea79a51ff0111492ed82f5fe.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        87,
+                        390,
+                        404,
+                        403
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                390,
+                                404,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        390,
+                                        404,
+                                        403
+                                    ],
+                                    "type": "text",
+                                    "content": "2、接收到分配的采购计划后，进行采购订单编制并送审批（采购员）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        404,
+                        505,
+                        736
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                404,
+                                505,
+                                736
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        404,
+                                        505,
+                                        736
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                404,
+                                                505,
+                                                736
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3fde045ffae75b51ef47edc04200419529d17356fba4da22432944c9dc423104.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        79,
+                        239,
+                        91
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                79,
+                                239,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        79,
+                                        239,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "3、采购订单审批（订单审批人）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        92,
+                        415,
+                        386
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                92,
+                                415,
+                                386
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        92,
+                                        415,
+                                        386
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                92,
+                                                415,
+                                                386
+                                            ],
+                                            "type": "image",
+                                            "image_path": "531fd7dba677f550088521f620d5a9abb6760cfc807994aac24b4e4a4bfd7cea.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        88,
+                        406,
+                        214,
+                        418
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                406,
+                                214,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        406,
+                                        214,
+                                        418
+                                    ],
+                                    "type": "text",
+                                    "content": "3、录入合同信息（采购员）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        419,
+                        466,
+                        564
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                419,
+                                466,
+                                564
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        419,
+                                        466,
+                                        564
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                419,
+                                                466,
+                                                564
+                                            ],
+                                            "type": "image",
+                                            "image_path": "2daaea8067ae6e0b435f455a4c296a3e4095dcfb9d658f637e5c212b4cc21708.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        76,
+                        474,
+                        265
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                76,
+                                474,
+                                265
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        76,
+                                        474,
+                                        265
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                76,
+                                                474,
+                                                265
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0d9ef9a26df2069390b19032f3c87cfeb83d5a76938fc3691a9abfbd2a73bbf8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        87,
+                        296,
+                        214,
+                        310
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                296,
+                                214,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        296,
+                                        214,
+                                        310
+                                    ],
+                                    "type": "text",
+                                    "content": "4、到货明细登记（待验员）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        311,
+                        436,
+                        414
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                311,
+                                436,
+                                414
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        311,
+                                        436,
+                                        414
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                311,
+                                                436,
+                                                414
+                                            ],
+                                            "type": "image",
+                                            "image_path": "169e870511a33885cfe714a61c9a987262501748b2e2fc03c5c4a103e9a2478a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        465,
+                        452,
+                        590
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                465,
+                                452,
+                                590
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        465,
+                                        452,
+                                        590
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                465,
+                                                452,
+                                                590
+                                            ],
+                                            "type": "image",
+                                            "image_path": "786f7b9c12e78c46c90bfa26beec68cb0bb706b6348f4954ae8153787d31e3b5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        88,
+                        593,
+                        194,
+                        607
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                593,
+                                194,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        593,
+                                        194,
+                                        607
+                                    ],
+                                    "type": "text",
+                                    "content": "5、到货确认（采购员）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        76,
+                        505,
+                        205
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                76,
+                                505,
+                                205
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        76,
+                                        505,
+                                        205
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                76,
+                                                505,
+                                                205
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ab9c6284792b42f3d537a5eef8c57728dd5f47f9a7154ffa08c53a6f03adb4a2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        247,
+                        505,
+                        348
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                247,
+                                505,
+                                348
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        247,
+                                        505,
+                                        348
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                247,
+                                                505,
+                                                348
+                                            ],
+                                            "type": "image",
+                                            "image_path": "bf045b56e2b5699a69b205617e1ec8589dcecf82d61690eee27a990b9afc022a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        88,
+                        437,
+                        193,
+                        449
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                437,
+                                193,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        437,
+                                        193,
+                                        449
+                                    ],
+                                    "type": "text",
+                                    "content": "6、到货送检（待验员）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        451,
+                        504,
+                        618
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                451,
+                                504,
+                                618
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        451,
+                                        504,
+                                        618
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                451,
+                                                504,
+                                                618
+                                            ],
+                                            "type": "image",
+                                            "image_path": "30a83ee4f31af152b03126c211060248bf75e7b799569bfd08333f40027c1c04.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        637,
+                        505,
+                        723
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                637,
+                                505,
+                                723
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        637,
+                                        505,
+                                        723
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                637,
+                                                505,
+                                                723
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3b73409013a46a1ec4785ed416cd961eef8be577cce933f97fce4661f38bd54c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 3
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.5.3"
+}

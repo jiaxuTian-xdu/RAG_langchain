@@ -1,0 +1,371 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        180,
+                        85,
+                        413,
+                        103
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                180,
+                                85,
+                                413,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        180,
+                                        85,
+                                        413,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "ERP系统中生产BOM查询操作手册"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        88,
+                        126,
+                        256,
+                        138
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                126,
+                                256,
+                                138
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        126,
+                                        256,
+                                        138
+                                    ],
+                                    "type": "text",
+                                    "content": "1. 进入系统：公司首页一生产管控"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        142,
+                        505,
+                        232
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                142,
+                                505,
+                                232
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        142,
+                                        505,
+                                        232
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                142,
+                                                505,
+                                                232
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f7833bca63f7d3abda0646cf36f0eab30b7bb3d7a1d4241a58281ef465d2d261.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        87,
+                        234,
+                        402,
+                        248
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                234,
+                                402,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        234,
+                                        402,
+                                        248
+                                    ],
+                                    "type": "text",
+                                    "content": "2. 查询路径：基础数据管理—BOM数据管理—BOM数据查询（新）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        248,
+                        505,
+                        391
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                248,
+                                505,
+                                391
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        248,
+                                        505,
+                                        391
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                248,
+                                                505,
+                                                391
+                                            ],
+                                            "type": "image",
+                                            "image_path": "9440366cd8a68ae5ecc30a4a3a6dd9f70b7737c0f54ca61e00466c4182f5c797.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        87,
+                        406,
+                        498,
+                        433
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                406,
+                                498,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        406,
+                                        498,
+                                        433
+                                    ],
+                                    "type": "text",
+                                    "content": "3. 查询操作：输入要查询的“产品型号或图号”，点击“查询”，查询出来后点击“确定”"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        434,
+                        504,
+                        604
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                434,
+                                504,
+                                604
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        434,
+                                        504,
+                                        604
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                434,
+                                                504,
+                                                604
+                                            ],
+                                            "type": "image",
+                                            "image_path": "56f1335107291d669f4274d647abf5adfdc96657dfdf5da8c0f8242f1e9c35bc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        87,
+                        608,
+                        287,
+                        622
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                608,
+                                287,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        608,
+                                        287,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": "4. 查询结果：点击型号即可展示下面明细"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        76,
+                        505,
+                        227
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                76,
+                                505,
+                                227
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        76,
+                                        505,
+                                        227
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                76,
+                                                505,
+                                                227
+                                            ],
+                                            "type": "image",
+                                            "image_path": "6237763a3e7d5d054e64d1312a431a605389adb3394f6b3cc4286becc269132d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.5.3"
+}

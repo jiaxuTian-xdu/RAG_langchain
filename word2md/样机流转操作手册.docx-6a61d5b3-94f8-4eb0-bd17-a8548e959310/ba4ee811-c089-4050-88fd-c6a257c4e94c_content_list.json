@@ -1,0 +1,384 @@
+[
+    {
+        "type": "text",
+        "text": "样机流转功能操作说明",
+        "text_level": 1,
+        "bbox": [
+            391,
+            99,
+            667,
+            122
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 适用场景",
+        "text_level": 1,
+        "bbox": [
+            147,
+            175,
+            270,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "适用于装调中心调与设计和检验之间样机流转进行跟踪记录，随时查看样机流转的状态。",
+        "bbox": [
+            144,
+            211,
+            836,
+            269
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 操作方法",
+        "text_level": 1,
+        "bbox": [
+            144,
+            286,
+            270,
+            307
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1界面进入操作",
+        "text_level": 1,
+        "bbox": [
+            193,
+            323,
+            373,
+            343
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "门户首页--生产计划管控系统--新品计划管理--新品样机流转，包含“样机流转申请”、“样机流归还”和“样机流查询”三个部分。",
+        "bbox": [
+            144,
+            360,
+            848,
+            454
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b32971db89174fd150e92070fc1d2cd873ae1b638f0894bce15da4cf3c31c411.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            87,
+            821,
+            542
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2功能操作",
+        "text_level": 1,
+        "bbox": [
+            194,
+            564,
+            324,
+            583
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bd07b4a68adeec17cf6e01b17912b6a615b3a25396bcb884d4fda6473c89c86.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            336,
+            90,
+            662,
+            448
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1) 样机流转申请",
+        "text_level": 1,
+        "bbox": [
+            194,
+            470,
+            366,
+            491
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该功能主要是转出人操作使用，分4部分：申请区、扫码领料区、待归还查询区和归还确认区。",
+        "bbox": [
+            144,
+            508,
+            848,
+            565
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfc0f1e2fb435b671abd6e07e071979810c8ac99e6b6b97188cb086f8c843c85.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            573,
+            852,
+            772
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1) 申请区",
+        "text_level": 1,
+        "bbox": [
+            206,
+            785,
+            332,
+            806
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "点击“添加”，填写领用物料的相关信息，点击提交即可。",
+        "bbox": [
+            191,
+            822,
+            796,
+            845
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注意点：【是否归还】选择“归还”和“不归还”，【主计划",
+        "bbox": [
+            191,
+            859,
+            848,
+            881
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "号】可手填和选择已有的主计划，【预计归还日期】选择归还日期，若到期还未归就标红提示。",
+        "bbox": [
+            144,
+            99,
+            860,
+            159
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bafc1e5e1a00d2cf7655e20bea1a47044815378baf384ee45e908e86427b9499.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            164,
+            848,
+            309
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）领料确认区",
+        "text_level": 1,
+        "bbox": [
+            208,
+            341,
+            379,
+            362
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "申请区点提交后，流程就到了领料确认区，点击“扫码领料”就出现扫码地方，扫领料人的条码领料即可。",
+        "bbox": [
+            144,
+            378,
+            836,
+            437
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a44ed102e4208fe82102b666b2c7be86fd5559811cd892e6e3efe69e22f74277.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            442,
+            850,
+            665
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3) 待归还区",
+        "text_level": 1,
+        "bbox": [
+            208,
+            675,
+            354,
+            695
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于需归还的申请，扫码领料后申请人在待归还区查看。",
+        "bbox": [
+            193,
+            712,
+            774,
+            733
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b1d71c5d240ff57cdfb32e19c3ec95a9425142b92224f221ff0b5d2dc1ab7df.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            89,
+            853,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4) 归还确认区",
+        "text_level": 1,
+        "bbox": [
+            208,
+            304,
+            378,
+            324
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "领料人归还提交后，流程会到申请人的归还确认区，点“归还确认”，流程结束，说明物料已归还给申请人。",
+        "bbox": [
+            144,
+            341,
+            848,
+            399
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a25de0b214a96a332546a938218f83315e00a4a94d5146ef201a7045b6b23a8b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            407,
+            850,
+            521
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2) 样机流转归还（领用人归还操作界面）",
+        "text_level": 1,
+        "bbox": [
+            193,
+            545,
+            610,
+            565
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "归还人点击“归还提交”，拿着产品去归还即可。",
+        "bbox": [
+            193,
+            582,
+            702,
+            601
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c15aa1f14e55d181c9d15875b062880d3f1879c1d75c99bc4b95be86fda18706.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            608,
+            847,
+            722
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3) 样机流转查询",
+        "text_level": 1,
+        "bbox": [
+            194,
+            731,
+            366,
+            750
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据条件可查看流转相关信息。",
+        "bbox": [
+            193,
+            768,
+            512,
+            787
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d8d3514853a9208a06105d26dca9dd940db6bf406d449b6735d3e3a691e2e88.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            795,
+            848,
+            892
+        ],
+        "page_idx": 4
+    }
+]

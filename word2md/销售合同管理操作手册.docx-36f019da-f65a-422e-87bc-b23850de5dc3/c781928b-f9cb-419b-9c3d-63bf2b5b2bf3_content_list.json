@@ -1,0 +1,2352 @@
+[
+    {
+        "type": "text",
+        "text": "销售管理业务是对厂内销售合同执行过程进行管控。主要涉及销售基础数据维护、销售指标管理、销售合同管理、销售订单管理、投产指令管理、销售发货管理、销售收入确认、应收台账管理、开票与回款管理、销售预警和销售财务综合查询。",
+        "bbox": [
+            147,
+            102,
+            848,
+            285
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "业务流程如下：",
+        "bbox": [
+            186,
+            316,
+            321,
+            332
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8286a0eaecaa213a55cc78a3042395fa6442934fdbc26a08a3cbd453b825b6f4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            280,
+            97,
+            744,
+            753
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 销售管理基础数据",
+        "text_level": 1,
+        "bbox": [
+            147,
+            102,
+            349,
+            118
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0db876198522a32d5afd34a65cfd92df96714cd4c4d4a7a5aef656b5fc7529d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            285,
+            161,
+            712,
+            350
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1. 客户类型管理",
+        "text_level": 1,
+        "bbox": [
+            169,
+            367,
+            346,
+            384
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            422,
+            294,
+            438
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "销售人员对销售客户类型进行维护。",
+        "bbox": [
+            181,
+            460,
+            458,
+            476
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            497,
+            294,
+            514
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "点击“基础数据管理”  $\\rightarrow$  “销售基础数据管理”  $\\rightarrow$  “客户类型管理”。弹出客户类型添加和查看页面，点击“添加”输入“客户类型代码”、“名称”、“有效性”、“是否军检”、“显示顺序”、“备注”等信息，点击“保存”即可生成一条客户类型。作为基础数据供后端使用时选择。",
+        "bbox": [
+            144,
+            535,
+            847,
+            633
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a58174b07f702adc262a23c792fa7f217fba22cb4dbff373ac9674a6996cf813.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            643,
+            848,
+            871
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2. 客户信息管理",
+        "text_level": 1,
+        "bbox": [
+            169,
+            102,
+            346,
+            118
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            156,
+            294,
+            173
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "销售人员对销售客户信息进行维护。",
+        "bbox": [
+            181,
+            195,
+            460,
+            211
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            231,
+            294,
+            249
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "点击“基础数据管理”  $\\rightarrow$  “销售基础数据管理”  $\\rightarrow$  “客户信息管理”。弹出客户信息添加、编辑和置为无效页面，点击“添加”输入“客户编码”、“客户名称”、“开票名称”、“有效性”等信息，点击“编辑”可对已添加的客户信息进行编辑，点击“置为无效”即可将有效的客户设置成无效。",
+        "bbox": [
+            144,
+            269,
+            848,
+            369
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0c760a4c00e3b619858295f62ea561f5c306abcf35bba98a2b6475e8c284b3d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            376,
+            853,
+            577
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. 销售管理",
+        "text_level": 1,
+        "bbox": [
+            144,
+            102,
+            268,
+            118
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec20497e0d8e8ebdc4f553cbe4a83554d7985a4e01732dfacd66b8459718c4c6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            162,
+            801,
+            409
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1. 销售指标管理",
+        "text_level": 1,
+        "bbox": [
+            169,
+            467,
+            346,
+            483
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1. 销售指标维护",
+        "text_level": 1,
+        "bbox": [
+            169,
+            521,
+            356,
+            538
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            568,
+            294,
+            585
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "销售人员根据每年部门销售指标情况进行销售指标添加、编辑、删除和确认。",
+        "bbox": [
+            179,
+            607,
+            776,
+            623
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            643,
+            294,
+            659
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售指标管理”  $\\rightarrow$  “销售指标维护”。弹出销售指标添加、编辑、删除和确认页面，点击“添加”输入“年份”、“客户”、“合同指标”等信息进行保存，点击“编辑”可对已添加的指标信息进行编辑，点击“删除”可对添加的指标信息进行删除，点击“确认”可对已添加的指标进行确认生效。",
+        "bbox": [
+            144,
+            682,
+            848,
+            782
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3af73ad77bfbf54652548d2acca4ca9cb78478e765a20c2b1a5860b640a957a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            89,
+            852,
+            244
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.2. 销售指标查询",
+        "text_level": 1,
+        "bbox": [
+            169,
+            282,
+            357,
+            300
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            330,
+            295,
+            347
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "销售人员根据已确认的销售指标进行销售指标查询。",
+        "bbox": [
+            181,
+            368,
+            584,
+            384
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            404,
+            295,
+            422
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售指标管理”  $\\rightarrow$  “销售指标查询”。弹出已生效的销售指标页面，可以按照“年份”、“客户”、“状态”等查询条件进行指标查询。",
+        "bbox": [
+            144,
+            443,
+            848,
+            488
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce1321eed469b10b145468bec3c0688226f3bddb4a587fa6691eca7af9b041e4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            495,
+            850,
+            618
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2. 销售合同管理",
+        "text_level": 1,
+        "bbox": [
+            169,
+            651,
+            347,
+            669
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1. 销售合同录入",
+        "text_level": 1,
+        "bbox": [
+            169,
+            705,
+            357,
+            722
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            752,
+            294,
+            769
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "销售人员根据合同信息进行合同录入，提交审批。",
+        "bbox": [
+            181,
+            791,
+            564,
+            808
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            827,
+            294,
+            845
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售合同管理”  $\\rightarrow$  “销售合同录入”。弹出销售合同录入添加",
+        "bbox": [
+            179,
+            866,
+            848,
+            883
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "页面，点击“添加”，录入合同信息。点击明细“添加”可以选择合同明细产品，点击明细“删除”可以删去已选的产品信息，点击明细“从销售订单选择”可以让该合同与已生成的预测订单进行关联。都录入完后点击“保存”就到提交界面进行“提交”审批。",
+        "bbox": [
+            144,
+            93,
+            848,
+            164
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/56490868a65b3c79129deac5dea643a1c39330123503a1384106c5dda961b3b8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            189,
+            173,
+            808,
+            423
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d91a8a9b7527953e445d1fb30c6e2a5fabf2932b2cfe300714d08b0855a73d0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            438,
+            801,
+            671
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/29c98df1f765aa2c27853be4628d75135848e708fd031eabe3b1e2f397bb781f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            90,
+            801,
+            334
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.2. 销售合同明细综合查询",
+        "text_level": 1,
+        "bbox": [
+            169,
+            375,
+            438,
+            394
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            169,
+            422,
+            294,
+            439
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "销售人员查看合同明细执行情况。",
+        "bbox": [
+            181,
+            461,
+            442,
+            478
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            169,
+            497,
+            294,
+            514
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售合同管理”  $\\rightarrow$  “销售合同明细综合查询”。弹出查询页面，填写“编制部门”、“编制人”、“合同号”、“合同名称”、“客户名称”等信息，点击“查询”下面就会显示查询出来的相关信息（合同信息、合同明细信息、发货信息、发货信息、收入信息、开票信息和回款信息）。",
+        "bbox": [
+            144,
+            536,
+            855,
+            636
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9b48c6b22d655346cb0d63161cf3dadf4fb882507376fedeebe0e76558aae0e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            645,
+            848,
+            813
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.3.冲抵查询",
+        "text_level": 1,
+        "bbox": [
+            169,
+            854,
+            317,
+            873
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            102,
+            295,
+            118
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "销售人员可以查看合同和订单的冲抵情况。",
+        "bbox": [
+            181,
+            140,
+            512,
+            156
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            177,
+            294,
+            193
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售合同管理”  $\\rightarrow$  “冲抵查询”。弹出冲抵查询页面，填写“合同编号”、“销售订单编号”、“物料号”、“物料名称”等信息，点击“查询”下面就会显示查询出来的信息。",
+        "bbox": [
+            147,
+            216,
+            848,
+            287
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1c4448299fc5f371071fc9a6a99b7581a4753ae53f02412cc2033638a5a3c21.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            294,
+            845,
+            492
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2.4. 销售合同看板",
+        "text_level": 1,
+        "bbox": [
+            169,
+            525,
+            357,
+            543
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            573,
+            294,
+            590
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "公司领导和部门领导可以查看公司和销售各部门年度销售情况统计。",
+        "bbox": [
+            181,
+            611,
+            705,
+            627
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            648,
+            294,
+            665
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售合同管理”  $\\rightarrow$  “销售合同看板”。",
+        "bbox": [
+            181,
+            686,
+            653,
+            703
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1. 公司级",
+        "text_level": 1,
+        "bbox": [
+            181,
+            714,
+            272,
+            730
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "年度各部门销售金额：",
+        "bbox": [
+            181,
+            741,
+            354,
+            758
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9fd4320b71db0d1d88e66b94db48c9c3930b8a91daff4f0461106c17d1b26edd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            206,
+            89,
+            789,
+            282
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd5f03b61ad28be19766d2a27acf8c429744de4c7175c87869927440cd4ef950.jpg",
+        "image_caption": [
+            "年度各月销售金额："
+        ],
+        "image_footnote": [],
+        "bbox": [
+            203,
+            326,
+            793,
+            524
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2. 部门级",
+        "text_level": 1,
+        "bbox": [
+            181,
+            543,
+            270,
+            558
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3cd7e1e2549363178ecc2d6e44b5f7110509fba9d6e505cb7b7db542dc4b08e.jpg",
+        "image_caption": [
+            "年度本部门销售金额：",
+            "年度各人销售金额："
+        ],
+        "image_footnote": [],
+        "bbox": [
+            220,
+            593,
+            808,
+            787
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/498cafba5b40f58f2388d33a063e761f028cdd66f1970db95fceb3aaa9bf2fa8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            193,
+            89,
+            838,
+            304
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3. 销售订单管理",
+        "text_level": 1,
+        "bbox": [
+            169,
+            338,
+            346,
+            356
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3.1. 合同生成销售订单",
+        "text_level": 1,
+        "bbox": [
+            169,
+            392,
+            398,
+            410
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            439,
+            294,
+            458
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "销售人员对审批通过的合同明细生成订单。",
+        "bbox": [
+            181,
+            478,
+            512,
+            495
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            514,
+            294,
+            533
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售订单”  $\\rightarrow$  “合同生成销售订单”。弹出合同生成销售订单页面，选中已经审批通过的合同，点击“添加”，填写数量和需求时间。点击“保存”可以将填写好的信息保存。点击“删除”可以将填写好的信息进行删除。点击“生成订单”对已填好的信息生成了订单。",
+        "bbox": [
+            144,
+            552,
+            847,
+            652
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba6393e224ae90439a9d9951984a376eb113c81d35429f33d02cf4cb29fc0a70.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            659,
+            848,
+            790
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3.2. 销售订单维护",
+        "text_level": 1,
+        "bbox": [
+            169,
+            816,
+            357,
+            834
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            863,
+            292,
+            881
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "销售人员对无合同需提前投产（风险投入和投产函），可以进行订单维护进行投产（销售需求添加），合同确定后再关联该订单；内部投产样机不进行销售（内部需求添加）。",
+        "bbox": [
+            144,
+            93,
+            847,
+            165
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            169,
+            185,
+            292,
+            202
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售订单管理”  $\\rightarrow$  “销售订单维护”，弹出订单维护页面。",
+        "bbox": [
+            179,
+            224,
+            811,
+            239
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "点击“销售需求添加”或“内部需求添加”，弹出添加页面，输入数据并上传附件后点击“保存”，保存后到订单维护界面可以进行“编辑”、“删除”和“提交审批”操作“提交审批”后经三级审批后到投产指令。“复制”是对已走过的订单进行再次投产可以直接复制进行提交。",
+        "bbox": [
+            144,
+            250,
+            847,
+            350
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/15ab55323f0a2afb7d22fac7a68120c8aeeeb381c73dbdf8e7847b8c43cc2161.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            359,
+            848,
+            438
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/7843b3ba5a1e66ac92100b195920e95b3482b871d66582a4eb50475623ce7a6e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            458,
+            847,
+            580
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.3.3. 销售订单查询",
+        "text_level": 1,
+        "bbox": [
+            169,
+            614,
+            356,
+            631
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            169,
+            662,
+            292,
+            678
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "销售管人员对销售订单进行查询。",
+        "bbox": [
+            181,
+            701,
+            440,
+            715
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            169,
+            736,
+            292,
+            753
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售订单管理”  $\\rightarrow$  “销售订单查询”，弹出订单查询页面。",
+        "bbox": [
+            179,
+            775,
+            810,
+            791
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "用户点击“查询”或“重置”按钮，可按照输入的查询条件模糊筛选出对应的记录，在点击“重置”按钮时可清空查询条件。",
+        "bbox": [
+            144,
+            803,
+            836,
+            846
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b1c5e030febcd4d62e3f79f7ae276764682c77abe704e4ed15480b234acfecc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            87,
+            852,
+            229
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3.4. 销售订单回款统计",
+        "text_level": 1,
+        "bbox": [
+            169,
+            256,
+            400,
+            275
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            169,
+            304,
+            294,
+            322
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "销售管人员对销售订单汇款信息进行统计。",
+        "bbox": [
+            181,
+            342,
+            512,
+            359
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            169,
+            379,
+            294,
+            395
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售订单管理”  $\\rightarrow$  “销售订单回款统计”，弹出订单维护页面。",
+        "bbox": [
+            181,
+            417,
+            847,
+            434
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "销售人员点击“选择发票”进行回款登记。点击“查询”或“重置”按钮，可按照输入的查询条件筛选出对应的记录，在点击“重置”按钮时可清空查询条件。",
+        "bbox": [
+            147,
+            445,
+            848,
+            489
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/75b35600bbc725fef3864fadb31876417cc2667ef179061d7011bb7345fffafe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            495,
+            852,
+            904
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3.5. 销售订单变更申请",
+        "text_level": 1,
+        "bbox": [
+            169,
+            101,
+            396,
+            118
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            149,
+            294,
+            166
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "销售人员对销售订单变更进行申请。",
+        "bbox": [
+            181,
+            187,
+            460,
+            204
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            223,
+            294,
+            241
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售订单管理”  $\\rightarrow$  “销售订单变更”，弹出订单维护页面。",
+        "bbox": [
+            181,
+            262,
+            813,
+            279
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "用户选择数据点击“变更”按钮，弹出变更页面，输入变更信息后点击提交按钮。用户选择数据点击“订单废止”按钮，将所选数据废止。用户选择数据点击“编辑”按钮，成功弹出编辑页面，输入信息后点击提交按钮。用户点击“查询”或“重置”按钮，可按照输入的查询条件模糊筛选出对应的记录，在点击“重置”按钮时可清空查询条件。",
+        "bbox": [
+            144,
+            290,
+            848,
+            388
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/8250bd347bdefc32f8fd253f074f770fa2edab76d047ad438d46cf6c0683a498.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            157,
+            398,
+            840,
+            589
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/01b10f33ec41ceb87b33ebe596989171308af925a573178a5b816826c7642c74.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            157,
+            608,
+            840,
+            800
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.3.6. 销售订单变更查询",
+        "text_level": 1,
+        "bbox": [
+            169,
+            838,
+            398,
+            854
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            169,
+            102,
+            292,
+            118
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "销售管人员对销售订单变更申请进行查询。",
+        "bbox": [
+            181,
+            140,
+            512,
+            156
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            177,
+            294,
+            193
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售订单管理”  $\\rightarrow$  “销售订单变更查询”，弹出变更查询页面。",
+        "bbox": [
+            181,
+            215,
+            847,
+            231
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "用户点击“查询”或“重置”按钮，可按照输入的查询条件模糊筛选出对应的记录，在点击“重置”按钮时可清空查询条件。",
+        "bbox": [
+            144,
+            243,
+            840,
+            287
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7264623d59bd1d87b4cd192ef1798f2fa1dc7235628a500be9ff95682900faf.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            294,
+            848,
+            495
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.3.7. 销售订单完成情况统计",
+        "text_level": 1,
+        "bbox": [
+            169,
+            524,
+            438,
+            543
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            571,
+            294,
+            589
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "销售人员对销售订单完成情况进行统计查询。",
+        "bbox": [
+            181,
+            611,
+            529,
+            627
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            646,
+            294,
+            665
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售订单管理”  $\\rightarrow$  “销售订单完成情况统计”，弹出订单完成情况统计页面。",
+        "bbox": [
+            144,
+            684,
+            848,
+            730
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "用户点击“查询”或“重置”按钮，可按照输入的查询条件模糊筛选出对应的记录，在点击“重置”按钮时可清空查询条件。可以查询订单入库情况、发货情况、回款情况、完成率等。",
+        "bbox": [
+            144,
+            741,
+            838,
+            813
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/102aae4f49d1b41cb410e0a07f5316e152fd9342600c0fd2d81bae9e3ef688ab.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            90,
+            848,
+            288
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "2.4.投产指令管理",
+        "text_level": 1,
+        "bbox": [
+            169,
+            319,
+            346,
+            337
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "2.4.1. 销售订单生成投产指令",
+        "text_level": 1,
+        "bbox": [
+            169,
+            375,
+            436,
+            392
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            422,
+            294,
+            438
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "销售人员根据订单情况下达投产指令。",
+        "bbox": [
+            181,
+            461,
+            475,
+            476
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            497,
+            294,
+            514
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “投产指令管理”  $\\rightarrow$  “销售订单生成投产指令”。弹出投产指令下达页面，选中需投产的订单。",
+        "bbox": [
+            144,
+            535,
+            847,
+            579
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "是否生成计划：“是”表示下一步会到主计划进行进行投产；“否”表示不进行投产只用来订单发货。",
+        "bbox": [
+            144,
+            590,
+            847,
+            634
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "库存冲抵：利用已有库存冲抵，直接销售发货。选择库存冲抵的产品会被占用，只有该订单对的发货才能使用。",
+        "bbox": [
+            144,
+            646,
+            847,
+            690
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "库存改装：利用库存已有产品进行改装\\复验后再销售发货。选择改装的产品会被占用，同时会自动生成出库单。",
+        "bbox": [
+            144,
+            701,
+            857,
+            745
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "选配：针对BOM中有选配件的进行选配。",
+        "bbox": [
+            181,
+            757,
+            505,
+            772
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/83f74fbe81eea508a2734d334e326f6389da92a828190cc6fa338cd99585523b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            90,
+            852,
+            243
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2.4.2. 销售订单库存\\改装冲抵查询",
+        "text_level": 1,
+        "bbox": [
+            169,
+            282,
+            487,
+            300
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            330,
+            295,
+            348
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "销售人员对销售订单库存\\改装冲抵情况进行查询。",
+        "bbox": [
+            181,
+            369,
+            571,
+            386
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            405,
+            295,
+            423
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “投产指令管理”  $\\rightarrow$  “销售订单库存\\改装冲抵查询”。弹出查看页面。冲抵的产品在库存中已被占用。",
+        "bbox": [
+            144,
+            444,
+            848,
+            488
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/9395dece88306016530bb8d591800411a25d6aac7e56c96e022135edba366e96.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            495,
+            848,
+            594
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2.5. 销售发货管理",
+        "text_level": 1,
+        "bbox": [
+            169,
+            633,
+            347,
+            651
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2.5.1. 发货申请",
+        "text_level": 1,
+        "bbox": [
+            169,
+            688,
+            317,
+            705
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能介绍",
+        "text_level": 1,
+        "bbox": [
+            171,
+            734,
+            294,
+            753
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "销售人员进行发货申请，提交审批。",
+        "bbox": [
+            181,
+            774,
+            458,
+            790
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            810,
+            294,
+            828
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售发货管理”  $\\rightarrow$  “发货申请”，弹出发货页面（上面是发货信息、左下是发货对应的订单信息、右下是订单对应的产品信息）。",
+        "bbox": [
+            144,
+            848,
+            848,
+            892
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "点击“添加”按钮，弹出添加页面，填写发货信息提交之后生成发货要关联的订单。然后点击发货信息下面“选择订单”按钮，弹出订单选择页，选择要发货的订单，“提交”后进入了发货页面。点击“编辑”按钮，弹出对发货编辑页面，用户对数据编辑完成之后进行提交保存。选择数据点击“删除”按钮，成功删除所选数据。点击“复制”按钮是对之前发货信息再次发货。最后点击“提交审批”按钮，提交给部门领导审批。",
+        "bbox": [
+            144,
+            93,
+            850,
+            221
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4939f85c41078bbacbe9979ac808eda4a2639652e7baa12058b24ef63d82f72.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            229,
+            848,
+            461
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a749e509a814cbe51d7f1fb6f2600adde45893e4ae9a4897b54fd905494c8f0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            483,
+            848,
+            657
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2.6. 销售退货管理",
+        "text_level": 1,
+        "bbox": [
+            169,
+            695,
+            346,
+            712
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能介绍",
+        "text_level": 1,
+        "bbox": [
+            169,
+            749,
+            292,
+            766
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "销售管人员对已销售出库的产品进行退货。",
+        "bbox": [
+            181,
+            788,
+            512,
+            804
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            169,
+            824,
+            292,
+            841
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售发货管理”  $\\rightarrow$  “销售退货管理”  $\\rightarrow$  “退货管理”，弹出退",
+        "bbox": [
+            181,
+            863,
+            848,
+            879
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "货页面。",
+        "bbox": [
+            147,
+            93,
+            211,
+            108
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "点击“添加”按钮，成功弹出添加页面，输入退货客户信息确认后，生成一条客户信，点击“选择发货单”选择该客户对应的发货单，点击“添加”添加该发货单对应的产品，最后选择数据后点击“提交审批”按钮，成功将数据提交至退货检验确认。用户点击“查询”或“重置”按钮，按照输入的查询条件模糊筛选出对应的记录，在点击“重置”按钮时可清空查询条件。",
+        "bbox": [
+            144,
+            121,
+            855,
+            247
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/299fe6678a2f567aaf394a75bb5cf05fc98b8411d4edd49ea51c4c0d76beea30.jpg",
+        "image_caption": [
+            "2"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            256,
+            848,
+            631
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.7. 退货检验确认",
+        "text_level": 1,
+        "bbox": [
+            169,
+            678,
+            344,
+            695
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能介绍",
+        "text_level": 1,
+        "bbox": [
+            171,
+            733,
+            290,
+            749
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "检验人员对退货检验进行确认。",
+        "bbox": [
+            181,
+            771,
+            423,
+            787
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            807,
+            290,
+            824
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售发货管理”  $\\rightarrow$  “销售退货管理”  $\\rightarrow$  “退货检验确认”，弹出退货页面。",
+        "bbox": [
+            144,
+            846,
+            848,
+            890
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "选择数据后点击“检验完成”按钮，成功将所选数据检验完成。选择数据后点击“拒回”按钮，填写拒回原因后，成功将数据拒回至销售退货管理。用户点击“查询”或“重置”按钮，按照输入的查询条件模糊筛选出对应的记录，在点击“重置”按钮时可清空查询条件。",
+        "bbox": [
+            144,
+            93,
+            850,
+            192
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdec95ab5c0d1487316f9987124c4c6201f64a4056b8ba0c732f5642700ce9bb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            202,
+            848,
+            401
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.8. 退货入库登帐",
+        "text_level": 1,
+        "bbox": [
+            169,
+            423,
+            346,
+            441
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能介绍",
+        "text_level": 1,
+        "bbox": [
+            169,
+            478,
+            292,
+            495
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "库房管理员对退货入库进行登帐",
+        "bbox": [
+            181,
+            516,
+            433,
+            532
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            169,
+            552,
+            292,
+            570
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "点击“销售管理”  $\\rightarrow$  “销售发货管理”  $\\rightarrow$  “销售退货管理”  $\\rightarrow$  “退货入库登帐”，弹出退货页面。",
+        "bbox": [
+            144,
+            590,
+            848,
+            634
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "选择数据后点击“登帐”按钮，成功将所选数据进行登帐。用户点击“查询”或“重置”按钮，按照输入的查询条件模糊筛选出对应的记录，在点击“重置”按钮时可清空查询条件。",
+        "bbox": [
+            144,
+            646,
+            850,
+            718
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/d659a3b3d07a26bf3637267a5bc8a039a4d4aee65ba722fbd2da325c1aef0afe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            90,
+            848,
+            292
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2.9. 开票申请",
+        "text_level": 1,
+        "bbox": [
+            169,
+            313,
+            305,
+            330
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            169,
+            367,
+            294,
+            385
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "销售人员对开票信息进行定义。",
+        "bbox": [
+            181,
+            406,
+            423,
+            422
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            169,
+            442,
+            294,
+            458
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "用户点击“查询”或“重置”按钮，可按照输入的查询条件模糊筛选出对应的记录，在点击“重置”按钮时可清空查询条件",
+        "bbox": [
+            144,
+            508,
+            840,
+            552
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/10cfa32760df36d408360d8d1214d34c4ccf4a922068ae655e3bd66825246db7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            560,
+            848,
+            763
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "用户点击“添加”按钮",
+        "bbox": [
+            181,
+            774,
+            366,
+            790
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/df9fb80234c3a0aeffb4b152d6bb3061ae774ea44ac2a49fee89f86981f4449e.jpg",
+        "image_caption": [
+            "用户点击“保存”按钮"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            91,
+            848,
+            292
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c4a9e6f9c54285dee3c8cc97f0343a5221ad50112f807b39593e7df8f7a3c8d.jpg",
+        "image_caption": [
+            "用户点击“删除”按钮"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            329,
+            848,
+            531
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c42e9f0517e96dc42d9bb084b0ec18c18aef949ca26b194b51de89772e8909d.jpg",
+        "image_caption": [
+            "用户点击“提交会计”按钮。"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            569,
+            848,
+            769
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/a07a3c849c409026e686fa6b5b41a19d9b0842c2e8d94b7be2eae6ed541c9c7f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            91,
+            848,
+            292
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "2.10.销售开票",
+        "text_level": 1,
+        "bbox": [
+            169,
+            319,
+            302,
+            336
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            169,
+            375,
+            290,
+            391
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "销售管理员对销售开票信息进行定义。",
+        "bbox": [
+            181,
+            413,
+            475,
+            429
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            169,
+            449,
+            290,
+            467
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "用户点击“已开票”按钮，成功操作所选数据。用户点击“驳回”按钮，勾选数据点击按钮弹出驳回意见弹出框，填写完成后点击提交按钮。用户点击“查询”或“重置”按钮，可按照输入的查询条件模糊筛选出对应的记录，在点击“重置”按钮时可清空查询条件。",
+        "bbox": [
+            144,
+            488,
+            847,
+            586
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/520ac76630f4b1d57488ad9250223772bda6f98ed43d5004eea0e734c53b1103.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            596,
+            847,
+            796
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2f7c53b2a35db078f067068486b89d5f47ccead3e42b06e993202f27a2b3f56.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            90,
+            852,
+            494
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "2.11. 应收账款查询",
+        "text_level": 1,
+        "bbox": [
+            169,
+            516,
+            346,
+            533
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            169,
+            570,
+            294,
+            588
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "销售管理员对应收账款信息进行查询。",
+        "bbox": [
+            181,
+            609,
+            477,
+            625
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            169,
+            645,
+            294,
+            662
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "用户点击“查询”或“重置”按钮，可按照输入的查询条件模糊筛选出对应的记录，在点击“重置”按钮时可清空查询条件。",
+        "bbox": [
+            144,
+            684,
+            840,
+            728
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/0626b71c6c187553f97e8fc38eb18c3f46d411651d14ce179f080556f2ee57d3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            91,
+            848,
+            292
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2.12.销售回款登记",
+        "text_level": 1,
+        "bbox": [
+            169,
+            312,
+            344,
+            330
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  功能描述",
+        "text_level": 1,
+        "bbox": [
+            171,
+            367,
+            294,
+            384
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "销售人员进行销售回款登记。",
+        "bbox": [
+            181,
+            406,
+            405,
+            422
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$  操作说明",
+        "text_level": 1,
+        "bbox": [
+            171,
+            442,
+            294,
+            458
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "用户点击“添加”按钮，弹出添加页面，用户输入信息提交之后生成数据。用户点击“删除”按钮，可以将选中的数据进行删除。用户点击“编辑按钮”，弹出编辑页面，用户输入信息提交之后保存数据。销售管理员对销售回款信息进行登记可按照输入的查询条件模糊筛选出对应的记录，在点击“重置”按钮时可清空查询条件。",
+        "bbox": [
+            144,
+            480,
+            848,
+            580
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/fba2e13c01cda7bee0771e3509e6df438315dd973e43955f2fc553ca9e2ede41.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            589,
+            847,
+            788
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/34fbc5ef83da65779c58212dd59c14a42cfe3254fef6d81ab6ac9265ae433a08.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            90,
+            848,
+            290
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/24bd056bb627ae50e453bfe2a04281ba33c6f0739078731fc0fc719fd6c609ed.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            300,
+            848,
+            500
+        ],
+        "page_idx": 25
+    }
+]

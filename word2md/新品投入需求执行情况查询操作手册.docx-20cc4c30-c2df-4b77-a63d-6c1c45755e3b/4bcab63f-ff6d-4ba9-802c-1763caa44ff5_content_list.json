@@ -1,0 +1,868 @@
+[
+    {
+        "type": "text",
+        "text": "1.1 需求执行情况查询（适用于需求提请部门）",
+        "text_level": 1,
+        "bbox": [
+            79,
+            151,
+            381,
+            176
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 适用场景",
+        "text_level": 1,
+        "bbox": [
+            80,
+            186,
+            189,
+            210
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "适用于设计人员对于投入的物资需求（含零星需求投入和BOM投入）执行情况（需求情况、采购计划订单情况、机加外协计划情况、到货检验情况、入库发出情况）的追踪查询。",
+        "bbox": [
+            78,
+            221,
+            910,
+            280
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/882b1d6472c245f6d4e82d8b1aef4fb135dcd103c013c3b43296c57a7b64af54.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            280,
+            917,
+            400
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 操作方法示例",
+        "text_level": 1,
+        "bbox": [
+            80,
+            406,
+            217,
+            430
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a）界面计入：生产计划管理—新品计划管理—新品投入需求执行情况查询。",
+        "bbox": [
+            107,
+            440,
+            582,
+            465
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/88b6a4e3e5b13c163dc543cd016ce6638a2deea68775ac4d0e18b94e4461d7ce.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            136,
+            465,
+            863,
+            773
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "b) 显示列的调整：显示列项数可根据个人情况自行掉正。右键“主计划/零星计划编号”前面的小框，选择“显示属性设置窗",
+        "bbox": [
+            105,
+            813,
+            895,
+            840
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "口”，出来“列属性”框，根据个人情况设置是否“可见”，设置完成后点击“保存当前状态”即可。",
+        "bbox": [
+            130,
+            149,
+            766,
+            174
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbcf63d139cfbd4863f412b170b5f67f43cdd2ecf90a3e9e186d42d2d9ec4156.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            177,
+            176,
+            820,
+            361
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/80340861df9df2707f6f9613047ec7be5fc212c8503742babc66e42186ab4fd6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            181,
+            364,
+            269,
+            386
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/26746177ecaf11aa11e3330c43ed8d23a346b37ed9aa23d8f458c102cc304e45.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            181,
+            389,
+            820,
+            769
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c) 查询页面：根据查询条件查询需求执行情况",
+        "bbox": [
+            109,
+            774,
+            406,
+            800
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1) 查询条件：“主计划号/零星需求编号”、“项目代号”、“物料编码”、“物料名称”、“牌号”、“需求下达人”、",
+        "bbox": [
+            117,
+            808,
+            891,
+            836
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "“需求下达日期”。",
+        "bbox": [
+            159,
+            151,
+            274,
+            174
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "(a) 打开功能后系统自动默认是本人的未闭环需求。",
+            "(b) “需求下达人” 是谁查询出就是谁的需求，为空是所有人的需求。",
+            "(c) “含已闭环”未勾选上查出的是未闭环需求，勾选上是全部需求。"
+        ],
+        "bbox": [
+            159,
+            186,
+            596,
+            280
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【举例1】查询自己的未闭环需求",
+        "text_level": 1,
+        "bbox": [
+            93,
+            290,
+            300,
+            317
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "“代方远”进入ERP系统，打开“新品投入需求执行情况查询”，点击“查询”，默认查询出来的是代方远自己的未闭环需求。",
+        "bbox": [
+            92,
+            327,
+            883,
+            352
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/20663cb07fd8afe036db6c9adbed9912625b21fe5926a6949711287fa2d031a3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            82,
+            352,
+            917,
+            563
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1de4314412c4118b96cacd7881fa19c3b8909d77714bc2fe5032df6040c5a983.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            84,
+            566,
+            151,
+            583
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/09d692443bb98be03590293e22036fd324ac415a70ca43542fdea55414602aff.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            84,
+            586,
+            916,
+            794
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【举例2】查询自己的所有需求（已闭环和未闭环）",
+        "bbox": [
+            101,
+            801,
+            413,
+            826
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "“代方远”进入ERP系统，打开“新品投入需求执行情况查询”，设置查询条件“含闭环需求”打钩，再点击“查询”，查询出来的是代方远自己的所有需求。",
+        "bbox": [
+            79,
+            149,
+            909,
+            210
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6f7bc5f657a6bd75a4d29fb6ecd39530eb1efb04f181b71201d0fcafe392e9a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            211,
+            917,
+            653
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【举例3】查询所有人的未闭环需求",
+        "text_level": 1,
+        "bbox": [
+            87,
+            697,
+            309,
+            722
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“代方远”进入ERP系统，打开“新品投入需求执行情况查询”，设置查询条件“需求下达人”为空和“含已闭环”不打钩，再点击“查询”，查询出来的是所有人的未闭环需求。",
+        "bbox": [
+            79,
+            732,
+            908,
+            794
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7623669280f2f9fe20498dc195d669f3ad947ac9b5cea60d87577384c5c58cc3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            141,
+            917,
+            354
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9eebdd35b4d4f59aab1fcb20e14941257f7cef9b560cb1c235d382d7d5d2427.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            84,
+            356,
+            152,
+            376
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b39117f98b63ab1fe3eb165e39d09de9c3d8ab6a533ce737c4e0daaa2d56c84.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            84,
+            379,
+            915,
+            594
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "【举例4】查询所有人的所有需求",
+        "text_level": 1,
+        "bbox": [
+            89,
+            601,
+            294,
+            625
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“代方远”进入ERP系统，打开“新品投入需求执行情况查询”，设置查询条件“需求下达人”为空和“含已关闭”打钩，再点击“查询”，查询出来的是所有人的所有需求。",
+        "bbox": [
+            80,
+            636,
+            891,
+            697
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/45d4353f851ac9a2208aa1fcfd864a49cfd74b8b9432709a827ced37ad5dd339.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            141,
+            917,
+            505
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）查询情况：查询情况有4部分（需求情况、采购计划订单情况、机加外协计划情况、到货检验情况、入库发出情况）【举例1】生成采购计划",
+        "bbox": [
+            87,
+            514,
+            872,
+            574
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "查询条件：主计划/零星计划编号=\"2024-X022.KY-2024-128.XZ.001\"，物料编码=\"4M3019360\"",
+        "bbox": [
+            79,
+            584,
+            665,
+            610
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "查询情况：",
+        "bbox": [
+            80,
+            620,
+            147,
+            643
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "需求情况。2024年5月28日牛浩下达2个物资需求，用于项目代号KY-2024-128下的D/SCQ-47A产品上，要求完成时间2024.9.30。",
+        "bbox": [
+            78,
+            655,
+            902,
+            678
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采购计划订单情况。2024年5月13日计划员邱甜下达计划，计划号为CGJH-X-20240513，2024年6月28日采购员下达订单，订单号为CGDD2024050256。",
+        "bbox": [
+            79,
+            690,
+            910,
+            747
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "机加外协计划情况。因该物料是外购件，生成采购计划，不生成机加外协计划。",
+        "bbox": [
+            79,
+            759,
+            574,
+            786
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "到货检验情况。已到货，正在检验中。",
+        "bbox": [
+            79,
+            796,
+            317,
+            821
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f937301b6b1ed02f52398adc87de0708ab1498dc551c03df198339797df8f420.jpg",
+        "image_caption": [
+            "入库发出情况。未入库。"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            176,
+            917,
+            428
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "【举例2】生成机加外协计划",
+        "bbox": [
+            87,
+            433,
+            266,
+            458
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "查询条件：主计划/零星计划编号=\"20240530\", 物料编码=\"4M4515946\"",
+        "bbox": [
+            79,
+            468,
+            527,
+            494
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "查询情况：",
+        "bbox": [
+            80,
+            505,
+            147,
+            527
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "需求情况。2024年6月5王瀛东下达4个物资需求，用于项目代号KY-2023-044下的D/SSC-79C产品上，要求完成时间2024.8.15。",
+        "bbox": [
+            78,
+            539,
+            890,
+            564
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采购计划订单情况。该物料为自制零件，不生成采购计划，生成机加外协计划。",
+        "bbox": [
+            79,
+            574,
+            575,
+            600
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "机加外协计划情况。机加外协计划号为WO2406002780，已完成。",
+        "bbox": [
+            79,
+            610,
+            488,
+            636
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/27f64023a7910405e08ba9027d0eb4c68187bda16a03be2b617484efb74e5dca.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            139,
+            917,
+            374
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【举例3】利用库存资源",
+        "text_level": 1,
+        "bbox": [
+            87,
+            383,
+            237,
+            408
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "查询条件：主计划/零星计划编号=\"XFJ45A(1)-01\"，物料编码=\"4M3016437\"",
+        "bbox": [
+            79,
+            418,
+            554,
+            445
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "查询情况：",
+        "bbox": [
+            80,
+            453,
+            147,
+            478
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "需求情况。2024年7月3日杨文强下达3个物资需求，用于项目代号KY-2023-042下的D/SSC-83产品上，要求完成时间2024.7.15。",
+        "bbox": [
+            78,
+            489,
+            897,
+            515
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "采购计划订单情况。该物资在需求下达时，库存资源满足该需求，不再生成采购计划。零星领用方式可以到库房领用，配套方式计划员可以手动或每天晚上系统自动分配到该需求上，分配成功或领用成功后“需求是否满足”状态为“已闭环”。",
+        "bbox": [
+            79,
+            524,
+            909,
+            584
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "机加外协计划情况。不涉及。",
+        "bbox": [
+            79,
+            594,
+            260,
+            621
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "到货检验情况。不涉及。",
+        "bbox": [
+            80,
+            630,
+            231,
+            655
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "入库发出情况。不涉及。",
+        "bbox": [
+            80,
+            665,
+            231,
+            690
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/71a3cbdeb9ad5e99b13fc14edef0fef33b3af47686365e990bb1e3a7e89b74cd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            141,
+            917,
+            378
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "【举例4】利用在途资源",
+        "text_level": 1,
+        "bbox": [
+            87,
+            386,
+            237,
+            411
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "查询条件：主计划/零星计划编号=\"2024-X028.D/XFS-12(1).XP.002\"，物料编码=\"4M3020398\"",
+        "bbox": [
+            79,
+            421,
+            661,
+            448
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "查询情况：",
+        "bbox": [
+            80,
+            458,
+            147,
+            480
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "需求情况。2024年7月6日张长下达3个物资需求，用于项目代号KY-2023-050下的D/XFS-12产品上，要求完成时间2024.9.30。",
+        "bbox": [
+            78,
+            492,
+            883,
+            515
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "采购计划订单情况。该物资在需求下达时，有在途计划满足2个需求，所以利用资源数为“2”，利用了2024.6.28邱田下达的计划CGJH-X-20240628，对应订单为CGDD2024060583。",
+        "bbox": [
+            79,
+            527,
+            884,
+            584
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "机加外协计划情况。不涉及。",
+        "bbox": [
+            79,
+            600,
+            260,
+            621
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "到货检验情况。未到货。",
+        "bbox": [
+            80,
+            633,
+            231,
+            655
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "入库发出情况。未入库。",
+        "bbox": [
+            80,
+            668,
+            231,
+            692
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0b35f9ff9a00fade8329702430a4d03406ec1ddc10c3ee92c7444e16d18ca14.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            139,
+            917,
+            443
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "【举例5】还未生成采购计划",
+        "text_level": 1,
+        "bbox": [
+            87,
+            450,
+            266,
+            477
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "查询条件：主计划/零星计划编号=\"2024-X028.D/XFS-12(1).XP.002\"，物料编码=\"4M3019952\"",
+        "bbox": [
+            79,
+            487,
+            661,
+            512
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "查询情况：",
+        "bbox": [
+            80,
+            522,
+            147,
+            546
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "需求情况。2024年7月6日张长下达1个物资需求，用于项目代号KY-2023-050下的D/XFS-12产品上，要求完成时间2024.9.30。",
+        "bbox": [
+            78,
+            557,
+            883,
+            581
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "采购计划订单情况。利用资源数为“空”，采购计划订单情况为“空”，说明需求还未生成计划。",
+        "bbox": [
+            79,
+            591,
+            689,
+            618
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "机加外协计划情况。不涉及。",
+        "bbox": [
+            79,
+            628,
+            260,
+            652
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "到货检验情况。未到货。",
+        "bbox": [
+            80,
+            663,
+            231,
+            687
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "入库发出情况。未入库。",
+        "bbox": [
+            80,
+            699,
+            231,
+            722
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/4751455be35fb763f202a0e3bdd5b781542246fd82a3738771ee4a032f333b57.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            141,
+            917,
+            418
+        ],
+        "page_idx": 10
+    }
+]
