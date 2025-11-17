@@ -10,7 +10,7 @@ from langchain_core.documents import Document
 
 # 初始化DeepSeek客户端
 client = OpenAI(
-    api_key="sk-4e57d16897eb4c6f881c4e7b88828efa",
+    api_key=os.get("DEEPSEEK_API_KEY"),
     base_url="https://api.deepseek.com"
 )
 
